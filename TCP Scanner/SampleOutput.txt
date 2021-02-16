@@ -1,0 +1,9 @@
+python3 tcpscan2.py www.google.com -p 75:445
+Please wait while program scans active ports...
+
+Port 80 is open, default service is: http, TTL: 64, Window Size: 65535
+, OS: FreeBSD
+Port 443 is open, default service is: https, TTL: 64, Window Size: 65535
+, OS: FreeBSD
+
+
